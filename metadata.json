@@ -1,0 +1,7 @@
+{
+  "name": "MOZ DAMAS PRO",
+  "description": "The premier competitive online checkers platform in Mozambique, featuring Brazilian rules, real-time multiplayer, global ranking system, and professional UI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
